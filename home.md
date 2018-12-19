@@ -72,52 +72,7 @@ DI JAKARTA - INDONESIA</h4>
 <button class="vbtn btn-info btn-lg"><strong><span style="color: #fff;"><a id="primary_cta" class="btn btn--primary site-cta-link" style="color: #fff;" tabindex="0" href="tel:08119690038" data-tracking-element-type="1"><span id="primary_cta_1_desktop" class="" dir="ltr"><strong>Yusak&nbsp; &nbsp;:&nbsp; &nbsp; 0811-9690-038&nbsp;</strong></span></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong><i class="t"></i></button>
    
 <button class="vbtn btn-info btn-lg"><strong><span style="color: #fff;"><a id="primary_cta" class="btn btn--primary site-cta-link" style="color: #fff;" tabindex="0" href="tel:081290590970" data-tracking-element-type="1"><span id="primary_cta_1_desktop" class="" dir="ltr"><strong>Gunawan&nbsp; &nbsp;:&nbsp; &nbsp; 0812-9059-0970&nbsp;</strong></span></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong><i class=""></i></button>
-                          </div>
                           
-                            </div>
-                       </div>
-                     </div>
-                  
-                  <div class="header-inner sticky-menu">
-                  			<div class="container">
-                            	<div class="header-left">
-                                	<a href="#" class="navbar-toggle"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span></a>
-                                	<div class="dropdown search-dropdown">
-                                 </div>
-                                 <nav class="menu-container">
-                                 	<ul class="menu">
-                                    	<li class="active"><a href="sparepartalatberat.html">Home</a></li>
-                                        <li><a href="profile.html">Profile</a></li>
-                                        <li><a href="product.html">Product</a>
-                                        <ul>
-                                        <li><a href="caterpillar.html">Spare Part Caterpillar</a></li>  
-                                        <li><a href="komatsu.html">Spare Part Komatsu</a></li>
-                                        <li><a href="kobelco.html">Spare Part Kobelco</a></li>
-                                        <li><a href="hitachi.html">Spare Part Hitachi</a></li>                                       
-                                        <li><a href="kuku-bucket.html">Kuku Bucket</a></li>
-                                        </ul>
-                                        </li>
-                                        <li><a href="iklan-baris.html">Iklan Baris</a></li>
-                                        <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="contact-us.html">Contact Us</a></li>
-                                     </ul>
-                                 </nav>
-                                </div>
-                        </div>
-                    </div>
-              </header>
-              <div class="main">
-              	<div id="layerslider" style="width:100%;height:700px">
-                	<div class="ls-slide" data-ls="slidedelay: 4000; transition2d: 7;">
-                    	<img src="assets/images/blank.gif" data-src="assets/images/homesliders/index/bg1.jpg" class="ls-bg" alt="Slide background"> 
-                    </div>
-                    <div class="ls-slide" data-ls="slidedelay: 4000; transition2d: 4;">
-                    	<img src="assets/images/blank.gif" data-src="assets/images/homesliders/index/bg2.jpg" class="ls-bg" alt="Slide background"> 
-                    </div>
-                </div>
-               
-      <div class="tagline bg-gray">
-      	<div class="container">
 <h3 align="justify">PT BLESSINDO PRIMA SARANA </h3>
 <h3 align="justify">Distributor <a href="http://sparepartalatberat.com/sparepartalatberat.html">SPARE PART ALAT BERAT </a></li> | Jual Spare Part Alat Berat | Spare Part Heavy Equipment Hydraulic Excavator, Motor Grader, Bulldozer</h3>
 <p align="justify">
@@ -1919,8 +1874,4 @@ $(function(){"use strict";$("#layerslider").layerSlider({responsiveUnder:1200,la
 <a href="http://sparepartalatberat.com/kobelco.html"> </a>
 <a href="http://sparepartalatberat.com/hitachi.html"> </a>
 
-
-
-
-	</body>
 </html>
